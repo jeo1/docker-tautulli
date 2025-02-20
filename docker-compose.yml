@@ -11,4 +11,4 @@ services:
       - "PGID=1000"
       - "TZ=${TIMEZONE}"
     ports:
-      - "8182:8181"
+      - "8181:8181"
